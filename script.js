@@ -23,3 +23,4 @@ async function unfollowUsers() {
 
   console.log('All selected users have been unfollowed.');
 }
+unfollowUsers(); //initiates the unfollowing process through calling the funvtion, 'unfollowUsers
